@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>:: ) Selectors ( ::</title>
+    <style>
+        *{
+            border: 10px;
+            font-size: 15px;
+        }
+    </style>
+    <style>
+         div p {
+            background-color: cornsilk;
+            color: darkblue;
+        } 
+         div >p{
+            background-color: darkgoldenrod;
+            font-size: 50px;
+        } 
+        div +p{
+            background-color: darkorchid;
+            font-size: 70px;
+        }
+        div ~p{
+            background-color: deepskyblue;
+            font-size: 100px;
+        }
+       section ~p {
+           background-color: firebrick;
+       }
+        div+h5 {
+             font-size: 40px;
+        }
+        p:
+    </style>
+</head>
+<body>
+    <div>
+        <p>paragraph1</p>
+        <p>paragraph2</p>
+        <div>
+            <p>paragraph3</p>
+        </div>
+        <section>
+            <p>paragraph4</p>
+        </section>
+        <p>paragraph5</p>
+        <p>paragraph6</p>
+    </div>
+    <h5>nbghj</h5>
+    
+</body>
+</html>
