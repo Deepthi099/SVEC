@@ -97,5 +97,85 @@
  - register.html
  - login.html
 
+### media Quries
+
+  - Extra small devices (mobiles)
+     - max-width(600px)
+  - small devices (large phones)
+     - min-width(600px)
+     - max-width(768px)
+  - Medium devices(small laptops)
+     - min-width:(768px)
+  - Large Devices(Large laptops)
+     - min width:(992px)
+  - extra large devices
+     - min-width:(1200px)
+
+  ### Reference links
+  - flaticons
 
 
+
+```
+@media only screen(max-width:320px) and
+(max-width:500z){
+   css code
+}
+```
+
+### Bootstrap4.6
+
+- it is a css frame work
+
+Task3:
+=====
+
+  - navbar with responsive
+
+- module (collection of functions and classes)
+- package(colelction of modules)
+- library(collection of packages)
+- frame work(collection of librabies)
+
++ module-->package-->library-->Frame work
++ types of modes
+  - online 
+     - CDN links
+  - offline
++ background-colour - bg
++ text-whit
+
++ margin in bootstrap(m-*(0-5))
+ - 0 --> 0rem
+ - 1 --> 0.25rem(4px)
+ - 2 --> 0.5rem(8px)
+ - 3 --> 1 rem(16px)
+ - 4 --> 1.5rem(24px)
+ - 5 --> 3rem(48px)
+ - m (margin in all directions)
+ - m2-5(margin-left)
+ - mt(margin-top)
+ - mb(margin-bottom)
+ - mr(margin-right)
+ - ml(margin-left)
++ padding(padding-left--> p1-5)
+
++ colour
+  - primary
+  - secondary
+  - info
+  - success
+  - warning
+  - danger
+  - light
+  - dark
+  - white
+
++ we can use colour classes for
+   - buttons(btn btn-primary)
+   - text( text-white)
+   - backround(bg-scondary)
+   - alerts( alert alert-primary)
+   
+
+ 
