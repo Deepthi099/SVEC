@@ -211,5 +211,113 @@ Task3:
   - scope
     - function level --> var
     - block level -->let &const
-  - redefine
-  - redeclare
+  - redefine -->var,let
+  - redeclare --> var
+  'typeof()'
+  + object
+
+  '''
+  {
+     name:"deepthi"
+  }
+  '''
+
+  + Arrays
+
+  ### alerts
+
++ to generate notifications
+  - alert
+  - prompt(to take input from the user)
+  - cofirm
+
++ console statements
+  - 'console.log()'
+  - 'console.info()'
+  - 'console.warn()'
+  - 'console.error()'
+
++ Spread operator
+   
+   - to change array elements from one array to another array(swap)
+
+ '''
+    '''variableName
+ '''
+ + rest parameter
+  + to handle function parameters
+  
+ '''
+ 
+ '''parameter
+
+ ''' 
+
+ + destructing of array and objects
+
+ + functions
+  - function with function-name
+  '''
+  function demo(x,y){
+     retuen x+y
+
+  }
+  demo()
+  '''
+  - anonymous function
+  '''
+  let demo=function(x,y)
+  {
+     retuen x+y
+  }
+  '''
+  - arrow function
+  '''
+  let demo= (x,y) => {
+     retuen x*y
+  }
+  demo(3,4)
+  '''
+
+  + for in
+    - to get index values of an array
+   + for of
+    - to get elements in an array
+
+   + forEach()--> (ES-5)
+   + map() --> (ES-6)
+
+   ### DOM
+
+   - Document Object Model
+   - document
+   - history
+   - window
+   - navigator
++ DOM methods
+  -'getElementById()'
+  -'getElementByClassName()'
+  - 'querySelector()'
+  - 'innerText'
+  - 'textContent'
+  - 'append'
+  - 'appendChild'
+  - 'innerHTML'
+  - 'setAttribute'
+  - 'classList'
+  - 'style'
+  - 'src'
+
+  ### JSON
+  + JavaScript Object Notation
+    - To exchange information between application and server
+    '''
+    {
+      "name":"sai deepthi",
+      "salary":"5.0lpa",
+      "designation":"MERN DEVELOPER",
+      "mobile":67809000000
+    }
+    '''
+    + Ajax call or promices(fetch Api
+    ) or axios
