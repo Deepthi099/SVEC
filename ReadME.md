@@ -178,5 +178,38 @@ Task3:
    - alerts( alert alert-primary)
    
 +grid system
-  -
- 
+  - col-sm-12
+  - sm (small devices)
+  - lg (large devices)
+  -xl (extra large devices)
+
++ modal
++ table
+
+### Jva script
+
++ in 1995 'breden Eich' introduced java script(Es-262)
++ Java script loosely toupled and dynamic language
++ text based progrmming lanuage and we can use  in client-side and sever-side (Node.js) for dynamic web applications
+- ECMA (ES-6)
+  - let & const
+  - map()
+  - arrow function
+  - classes
+
++ datatypes
+    - number
+    - BigInt(2^53-1)
+    - string 
+    - boolean
+    - undefine
+    - null
+    - object
+    - array
++ variables
+  - var let and const
+  - scope
+    - function level --> var
+    - block level -->let &const
+  - redefine
+  - redeclare
