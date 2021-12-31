@@ -321,3 +321,45 @@ Task3:
     '''
     + Ajax call or promices(fetch Api
     ) or axios
+
+    ### ReactJS
+
+    + It is a Library
+    + It follows component based Architechure
+     - Function component
+     - class component
+     - pure component
+     - higher order component
+   + it provides virtual DOM
+   + it provides JSX (JavaScript and XML)
+   + Unidirectional data flow
+   + Single page Application
+
+   + project environment setup
+
+     -[downloadvisualStudioCode](https://code.visualstudio.com/download)
+     -[downloadNodeJS](https://nodejs.org/en/download/)
+     - install nodejs and check versions of 'node' and 'npm'
+      - 'node -v'
+      - 'npm -v'
+   - 'webpack' and 'lable'
+   - 'create -react-app'
+    - 'npmcd install create -react-app'
+    - 'create -react-app projectname'
+   - npx(node packge runner) create -react -app appname'
+ + Index.html
+ + index.js
+   + Index page
+    - nav.js
+    - body.ja
+    - footer.js
+    
+    + Home.js
+     - nav
+     - body
+     - footer
+    + Login.js
+    + Register
+    + About
+    + Contact
+

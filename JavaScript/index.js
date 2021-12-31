@@ -94,6 +94,7 @@ console.log(name);
 
 // let employes=["deepthi","keerthi","charitha","hema"]
 
+
 // for(let i=0;i<employes.length;i++){
 //     console.log(employes[i])
 // }
